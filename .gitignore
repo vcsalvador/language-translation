@@ -1,5 +1,5 @@
-checkpoint/**
-*.data-*-of-*
-*.index
-*.meta
-*.idea/**
+/checkpoints/checkpoint
+/checkpoints/*.data-*-of-*
+/checkpoints/*.index
+/checkpoints/*.meta
+/.idea/**
